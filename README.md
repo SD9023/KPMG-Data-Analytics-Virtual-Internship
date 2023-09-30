@@ -11,7 +11,7 @@ The client provided KPMG with 3 datasets:
 - Transactions data in the past 3 months
 
 In this preliminary step, We drafted an email to the client where we identified the data quality issues and strategies to mitigate these issues. 
-# Task 2: Data Insights
+# Task 2: Presentation on Data exploration, model development & Interpretation
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
