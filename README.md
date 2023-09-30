@@ -11,10 +11,34 @@ The client provided KPMG with 3 datasets:
 - Transactions data in the past 3 months
 
 In this preliminary step, We drafted an email to the client where we identified the data quality issues and strategies to mitigate these issues. 
-# Task 2: Presentation on Data exploration, model development & Interpretation
+# Task 2: Data Insights
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
 - In building this recommendation, we started with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 - Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
+# Task 3: Data Insights and Presentation
+It is important to keep in mind the business context when presenting your findings:
+- What are the trends in the underlying data?
+- Which customer segment has the highest customer value?
+- What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+- What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+- Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
+
+Created a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment and highlighted findings using Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
