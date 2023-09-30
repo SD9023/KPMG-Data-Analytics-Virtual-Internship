@@ -9,4 +9,5 @@ The client provided KPMG with 3 datasets:
 - Customer Demographic 
 - Customer Addresses
 - Transactions data in the past 3 months
+
 In this preliminary step, We drafted an email to the client where we identified the data quality issues and strategies to mitigate these issues. 
