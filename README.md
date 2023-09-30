@@ -27,18 +27,3 @@ It is important to keep in mind the business context when presenting your findin
 - Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
 
 Created a dashboard for the client that specifies who they should be targeting in their customer list as well as the broader market segment and highlighted findings using Dashboard
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
